@@ -1,16 +1,60 @@
-## Hi there 👋
+### Hello, I'm Matheus Eduardo 👋
 
-<!--
-**matheuseduarandrade/matheuseduarandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm driven by my passion for technology, education, and creativity. My goal is to build innovative and impactful solutions, always seeking new challenges to learn and grow.
+
+
+
+---
+
+
+
+### Connect with me:
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuseduandrade)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_matheu_duteo)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuseduandrade@gmail.com)
+
+
+
+---
+
+
+
+### About Me
+
+
+
+As a developing Full Stack Developer, I am currently studying Systems Analysis and Development. My goal is to transform ideas into real solutions by constantly learning and applying new technologies. I'm always looking for challenges that allow me to grow professionally and make a positive impact.
+
+
+
+---
+
+
+
+### Most Used Languages
+
+
+
+![Matheus's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseduarandrade&layout=compact&theme=vision-friendly-dark)
+
+
+
+* **Focused on:** Python (Backend), HTML/CSS/JavaScript (Frontend), PostgreSQL (Database)
+
+* **Also exploring:** C++
+
+
+
+---
+
+
+
+> "Technology is best when it brings people together."
+
