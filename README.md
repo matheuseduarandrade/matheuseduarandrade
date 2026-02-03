@@ -24,7 +24,7 @@ I'm constantly learning, experimenting, and building projects that help me grow 
 
 ### 🚀 Tech Stack & Focus
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseduarandrade&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuseduarandrade&show_icons=true&theme=vision-friendly-dark)
 
 **Main focus:**
 - 🐍 Python (Backend)
