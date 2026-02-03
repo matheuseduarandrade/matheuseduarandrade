@@ -12,7 +12,6 @@ I'm driven by my passion for technology, education, and creativity. My goal is t
 
 ### Connect with me:
 
-
 [![Telegram](https://img.shields.io)](https://www.linkedin.com/in/matheuseduandrade/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_matheu_duteo)
